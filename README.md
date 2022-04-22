@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rus1999
+- 👋 Hi, I’m @Rus1999 nice to meet you.
 - 👀 I’m interested in learning a new thing.
 - 🌱 I’m currently learning basic programing, Love2d, C, Java etc.
 

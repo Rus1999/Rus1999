@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rus1999 nice to meet you.
-- 👀 I’m interested in learning a new thing.
+- 👀 Programming language I want to master are C, C++, C#, Java, Javascript, Python.
 - 🐵 My monkeytype account [Rus07](https://monkeytype.com/profile/Rus07)
 
 <!---
